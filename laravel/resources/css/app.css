@@ -1,0 +1,35 @@
+
+                            /* Add custom styles here */
+                            .card {
+                                margin-top: 20px;
+                            }
+
+                            .table {
+                                margin-top: 20px;
+                            }
+
+                            .table th, .table td {
+                                text-align: center;
+                            }
+
+                            .table thead {
+                                background-color: #3490dc;
+                                color: #fff;
+                            }
+
+                            .table tbody tr:hover {
+                                background-color: #f8f9fa;
+                            }
+
+                            .text-center {
+                                text-align: center !important;
+                            }
+
+                            /* Add custom styles for book images */
+.book-image {
+    max-width: 50px; /* Adjust the max width as needed */
+    max-height: 50px; /* Adjust the max height as needed */
+    object-fit: cover;
+}
+
+                        
